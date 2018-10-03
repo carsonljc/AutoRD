@@ -1,0 +1,27 @@
+﻿  vJoyClient.cpp
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: consider using '%hs' in the format string
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: consider using '%Ts' in the format string
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: this warning is based on non-standard semantics used by Visual C++
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'TCHAR *'
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: consider using '%hs' in the format string
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: consider using '%Ts' in the format string
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: this warning is based on non-standard semantics used by Visual C++
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 3 has type 'TCHAR *'
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: consider using '%hs' in the format string
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: consider using '%Ts' in the format string
+  c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(77): note: this warning is based on non-standard semantics used by Visual C++
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(117): warning C4996: 'FfbStart': ** FfbStart function was deprecated - you can remove it from your code **
+  c:\users\carso\documents\github\autord\sdk\inc\vjoyinterface.h(332): note: see declaration of 'FfbStart'
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(191): warning C4311: 'type cast': pointer truncation from 'UCHAR *' to 'UINT'
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(191): warning C4302: 'type cast': truncation from 'UCHAR *' to 'UINT'
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(297): warning C4244: 'argument': conversion from 'LONG' to 'BYTE', possible loss of data
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(298): warning C4244: 'argument': conversion from 'LONG' to 'BYTE', possible loss of data
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(299): warning C4244: 'argument': conversion from 'LONG' to 'BYTE', possible loss of data
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(321): warning C4244: 'argument': conversion from 'LONG' to 'BYTE', possible loss of data
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(343): warning C4244: 'argument': conversion from 'LONG' to 'BYTE', possible loss of data
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(344): warning C4244: 'argument': conversion from 'LONG' to 'BYTE', possible loss of data
+c:\users\carso\documents\github\autord\sdk\src\vjoyclient.cpp(224): warning C4996: 'Ffb_h_Eff_Report': ** Ffb_h_Eff_Const function was deprecated - Use function Ffb_h_Eff_Report **
+  c:\users\carso\documents\github\autord\sdk\inc\vjoyinterface.h(345): note: see declaration of 'Ffb_h_Eff_Report'
+  vJoyClient.vcxproj -> C:\Users\carso\Documents\GitHub\AutoRD\SDK\src\x64\Debug\vJoyClient.exe
+          1 file(s) copied.
